@@ -1,0 +1,20 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Build output and editor-local state
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+*.pck
+*.zip
+export_credentials.cfg
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store

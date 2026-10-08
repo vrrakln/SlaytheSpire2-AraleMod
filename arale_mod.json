@@ -1,0 +1,14 @@
+{
+  "id": "arale_mod",
+  "name": "阿拉蕾（Arale）",
+  "author": "icest",
+  "description": "《杀戮尖塔2》新角色 Mod「阿拉蕾」——基于 RitsuLib 制作，开发中（角色卡池约 90 张）。",
+  "version": "0.1.0",
+  "min_game_version": "0.111.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": true,
+  "dependencies": [
+    { "id": "STS2-RitsuLib", "min_version": "0.5.20" }
+  ]
+}

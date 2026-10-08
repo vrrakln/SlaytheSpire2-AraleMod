@@ -1,0 +1,48 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://arale_mod/images/rooms/rest_site.png" id="1"]
+
+[node name="AraleRestSite" type="Node2D"]
+position = Vector2(-2, 42)
+scale = Vector2(0.760006, 0.760006)
+
+[node name="ControlRoot" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+mouse_filter = 2
+
+[node name="Visuals" type="Sprite2D" parent="ControlRoot"]
+position = Vector2(52, -20)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1")
+
+[node name="SelectionReticle" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+offset_left = -210.0
+offset_top = -325.0
+offset_right = 285.0
+offset_bottom = 275.0
+mouse_filter = 2
+
+[node name="Hitbox" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+offset_left = -210.0
+offset_top = -325.0
+offset_right = 285.0
+offset_bottom = 275.0
+
+[node name="ThoughtBubbleRight" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+offset_left = 209.209
+offset_top = -317.103
+offset_right = 209.209
+offset_bottom = -317.103
+mouse_filter = 2
+
+[node name="ThoughtBubbleLeft" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+offset_left = -73.6836
+offset_top = -324.997
+offset_right = -73.6836
+offset_bottom = -324.997
+mouse_filter = 2

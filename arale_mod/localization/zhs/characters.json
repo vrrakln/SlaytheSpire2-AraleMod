@@ -1,0 +1,18 @@
+{
+  "ARALE_MOD_CHARACTER_ARALE.title": "阿拉蕾",
+  "ARALE_MOD_CHARACTER_ARALE.characterSelectTitle": "仲町阿拉蕾",
+  "ARALE_MOD_CHARACTER_ARALE.titleObject": "阿拉蕾",
+  "ARALE_MOD_CHARACTER_ARALE.description": "梦限大MewType的主唱。最喜欢动画和漫画的少女，尤其喜欢《魔法露露》。坚信“梦想即力量”。",
+  "ARALE_MOD_CHARACTER_ARALE.pronounSubject": "她",
+  "ARALE_MOD_CHARACTER_ARALE.pronounObject": "她",
+  "ARALE_MOD_CHARACTER_ARALE.pronounPossessive": "她的",
+  "ARALE_MOD_CHARACTER_ARALE.possessiveAdjective": "她的",
+  "ARALE_MOD_CHARACTER_ARALE.cardsModifierTitle": "阿拉蕾卡牌",
+  "ARALE_MOD_CHARACTER_ARALE.cardsModifierDescription": "阿拉蕾的卡牌现在会出现在奖励和商店中。",
+  "ARALE_MOD_CHARACTER_ARALE.eventDeathPrevention": "演出还没结束……！",
+  "ARALE_MOD_CHARACTER_ARALE.bestiaryQuote": "这本漫画里……没见过这种怪物。",
+  "ARALE_MOD_CHARACTER_ARALE.aromaPrinciple": "[sine][pink]……好香……[/pink][/sine]",
+  "ARALE_MOD_CHARACTER_ARALE.goldMonologue": "[sine]这些钱能买多少本《魔法露露》呢……[/sine]",
+  "ARALE_MOD_CHARACTER_ARALE.banter.alive.endTurnPing": "下一首！",
+  "ARALE_MOD_CHARACTER_ARALE.banter.dead.endTurnPing": "……麦克风……掉了……"
+}

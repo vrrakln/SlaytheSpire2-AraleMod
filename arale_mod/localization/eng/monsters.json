@@ -1,0 +1,13 @@
+{
+  "ARALE_MOD_MONSTER_VIOLA.name": "Viola",
+  "ARALE_MOD_MONSTER_VIOLA.moves.CHARM_MOVE.title": "Charm",
+  "ARALE_MOD_MONSTER_VIOLA.moves.ARSON_FIRST_MOVE.title": "Arson",
+  "ARALE_MOD_MONSTER_VIOLA.moves.ARSON_MOVE.title": "Arson",
+  "ARALE_MOD_MONSTER_VIOLA.moves.EDIT_MOVE.title": "Edit",
+  "ARALE_MOD_MONSTER_VIOLA.moves.EDIT_LOW_MOVE.title": "Edit",
+  "ARALE_MOD_MONSTER_VIOLA.moves.PREP_MOVE.title": "Prepare",
+  "ARALE_MOD_MONSTER_VIOLA.moves.STRENGTHEN_MOVE.title": "Strengthen",
+  "ARALE_MOD_MONSTER_CHARMED_FUJIKO.name": "Fujiko (Charmed)",
+  "ARALE_MOD_MONSTER_CHARMED_FUJIKO.moves.DECAY_MOVE.title": "Despondency",
+  "ARALE_MOD_MONSTER_CHARMED_FUJIKO.moves.DOUBT_MOVE.title": "Doubt"
+}

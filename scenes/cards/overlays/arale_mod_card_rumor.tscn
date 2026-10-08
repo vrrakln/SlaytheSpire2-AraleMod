@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=3]
+
+[ext_resource type="Script" path="res://arale_mod/scripts/viola_card_ring.gd" id="1"]
+[ext_resource type="Shader" path="res://arale_mod/shaders/viola_card_ring.gdshader" id="2"]
+
+[sub_resource type="ShaderMaterial" id="RingMaterial"]
+shader = ExtResource("2")
+shader_parameter/protect_energy = false
+
+[node name="ViolaCardRing" type="Control"]
+layout_mode = 3
+mouse_filter = 2
+material = SubResource("RingMaterial")
+script = ExtResource("1")
+bleak = false
+

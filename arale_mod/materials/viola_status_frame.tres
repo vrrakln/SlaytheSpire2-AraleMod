@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3]
+
+[ext_resource type="Shader" path="res://arale_mod/shaders/viola_status_frame.gdshader" id="1"]
+
+[resource]
+shader = ExtResource("1")

@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3]
+[ext_resource type="Shader" path="res://arale_mod/vfx/transition.gdshader" id="1"]
+[resource]
+resource_local_to_scene = true
+shader = ExtResource("1")
+shader_parameter/threshold = 0.0

@@ -1,0 +1,18 @@
+{
+  "ARALE_MOD_CHARACTER_ARALE.title": "Arale",
+  "ARALE_MOD_CHARACTER_ARALE.characterSelectTitle": "Nakamachi Arale",
+  "ARALE_MOD_CHARACTER_ARALE.titleObject": "Arale",
+  "ARALE_MOD_CHARACTER_ARALE.description": "The vocalist of Mugendai MewType. A girl who loves anime and manga, especially Magic Lulu. She firmly believes that dreams are power.",
+  "ARALE_MOD_CHARACTER_ARALE.pronounSubject": "she",
+  "ARALE_MOD_CHARACTER_ARALE.pronounObject": "her",
+  "ARALE_MOD_CHARACTER_ARALE.pronounPossessive": "hers",
+  "ARALE_MOD_CHARACTER_ARALE.possessiveAdjective": "her",
+  "ARALE_MOD_CHARACTER_ARALE.cardsModifierTitle": "Arale Cards",
+  "ARALE_MOD_CHARACTER_ARALE.cardsModifierDescription": "Arale's cards now appear in rewards and shops.",
+  "ARALE_MOD_CHARACTER_ARALE.eventDeathPrevention": "The show's not over yet...!",
+  "ARALE_MOD_CHARACTER_ARALE.bestiaryQuote": "I've never seen a monster like this... in this manga.",
+  "ARALE_MOD_CHARACTER_ARALE.aromaPrinciple": "[sine][pink]...Smells so good...[/pink][/sine]",
+  "ARALE_MOD_CHARACTER_ARALE.goldMonologue": "[sine]How many volumes of Magic Lulu could I buy with this money...?[/sine]",
+  "ARALE_MOD_CHARACTER_ARALE.banter.alive.endTurnPing": "Next song!",
+  "ARALE_MOD_CHARACTER_ARALE.banter.dead.endTurnPing": "...Dropped... my microphone..."
+}

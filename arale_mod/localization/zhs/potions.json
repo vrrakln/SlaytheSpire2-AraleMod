@@ -1,0 +1,8 @@
+{
+  "ARALE_MOD_POTION_ARALE_DREAM_FOUNTAIN_POTION.title": "梦想源泉",
+  "ARALE_MOD_POTION_ARALE_DREAM_FOUNTAIN_POTION.description": "获得{Dream}点[gold]梦想[/gold]。",
+  "ARALE_MOD_POTION_ARALE_MILK_POTION.title": "牛奶",
+  "ARALE_MOD_POTION_ARALE_MILK_POTION.description": "[gold]锻炼[/gold]{Train}，抽{Cards}张牌。",
+  "ARALE_MOD_POTION_ARALE_MUSIC_BOX_POTION.title": "八音盒",
+  "ARALE_MOD_POTION_ARALE_MUSIC_BOX_POTION.description": "给予所有敌人{Intoxicated}层[gold]陶醉[/gold]。"
+}
